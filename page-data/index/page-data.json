@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"hero":{"edges":[{"node":{"frontmatter":{"title":"Hello World! My name is","name":"Samarasimha Reddy Punnam","subtitle":"Building the future, one model at a time - Generative AI in action.","buttonText":"Contact Me"},"html":"<p>I hold a Master’s degree in Engineering Data Science from the <a href=\"https://uh.edu/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">University of Houston</a>(December'24) , specializing in Machine Learning, Deep Learning, and NLP.</p>\n<p>Previously, I earned my Bachelor of Technology from IIT (BHU) Varanasi, where I built a strong foundation in computer science and software engineering.</p>\n<p>I have worked as a AI/ML Engineer at <a href=\"https://xebia.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Xebia IT Architects</a>.</p>\n<p>I'm actively seeking a full-time role where I can contribute my skills in coding and finding efficient solutions.</p>\n<p>Together, we can teach machines to imagine!</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2009693873","3825832676"]}
