@@ -12,4 +12,6 @@ company: 'University of Houston'
 showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+Developed a Generative AI chatbot using LangChain, LangSmith, and Streamlit, with an LCEL-powered RAG pipeline that ingests
+documentation, generates OpenAI embeddings, stores them in Pinecone, and enables real-time contextual Q&A with session
+traceability

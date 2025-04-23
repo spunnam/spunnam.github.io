@@ -9,7 +9,7 @@ I hold a Master’s degree in Engineering Data Science from the [University of H
 
 Previously, I earned my Bachelor of Technology from IIT (BHU) Varanasi, where I built a strong foundation in computer science and software engineering.
 
-I have worked as a AI/ML Engineer at [Xebia IT Architects](https://xebia.com/).
+I have worked as a Data scientist at [Xebia IT Architects](https://xebia.com/).
 
 I'm actively seeking a full-time role where I can contribute my skills in coding and finding efficient solutions.
 

@@ -126,6 +126,8 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Agentic AI',
+    'Langgraph',
     'Natural Language Processing (NLP)',
     'Large Language Models (LLMs)',
     'Retrieval-Augmented Generation (RAG)',
